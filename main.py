@@ -1,8 +1,5 @@
-from os import kill
-from turtle import color
 import discord
 from discord.ext import commands
-from matplotlib.pyplot import title
 import requests
 from bs4 import BeautifulSoup
 
