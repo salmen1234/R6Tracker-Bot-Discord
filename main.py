@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 bot = commands.Bot(command_prefix='?',description='Bot')
 
-token = 'OTcxODg3MjA1NjI0NzA5MTgw.YnRCfg.VnUtT3pwM19--Ax650T9raNH74Y'
+token = 'Bot Token'
 
 print('rédy')
 
